@@ -2,7 +2,7 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-1. [Implementasi Blockchain untuk Keamanan Data Akademik dalam Sistem Informasi Perguruan Tinggi](ebook/Penerapan Blockchain untuk Keamanan Dokumen Digital.pdf) – Abdullah, S. (2025)
+1. [Implementasi Blockchain untuk Keamanan Data Akademik dalam Sistem Informasi Perguruan Tinggi](Penerapan%20Blockchain%20untuk%20Keamanan%20Dokumen%20Digital.pdf) – Abdullah, S. (2025)
 2. [Innovating in Libraries, Volume 1: Surviving Technological Lethargy in Times of Endless Transformation](ebook/978-1-80592-965-920261017en.pdf) - Chiparausha, B., Chisita, C. T., & Fombad, M. (Eds.) (2026)
 3. [Open Access](ebook/1004020.pdf) - Suber, P. (2012)
 4. [Learning in Action: Designing Successful Graduate Student Work Experiences in Academic Libraries](ebook/9780838936795.pdf) - Hartsell-Gundy, A., Duckett, K., & Morris, S. (Eds.) (2022)
