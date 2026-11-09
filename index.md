@@ -14,4 +14,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Public User Services & Technology: A Primer for Librarians](ebook/Public-User-Services-amp-Technology-a-Primer-for-Librarians-1773076003.pdf) - Bateman, M., & Hargrove, S. (Eds.)
 11. [Introduction to Library Automation (Unit-1)](ebook/Unit-1) - IGNOU / LIS Course Material
 ---
-Powered by GitHub Pages
+Nabila Putri Akbar (13040124140173)
