@@ -12,6 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Digital Preservation Assessment Handbook](ebook/nedcc-DPA-hndbk-6.24-web.pdf) - Northeast Document Conservation Center (NEDCC) (2019)
 9. [Open Movements: Recognizing Challenges and Building Connections](ebook/Open_Movements_OA.pdf) - Elder, A. K., Smith, S. M., & Ricupero, B. (Eds.) (2026)
 10. [Public User Services & Technology: A Primer for Librarians](ebook/Public-User-Services-amp-Technology-a-Primer-for-Librarians-1773076003.pdf) - Bateman, M., & Hargrove, S. (Eds.)
-11. [Introduction to Library Automation (Unit-1)](ebook/Unit-1.pdf) - IGNOU / LIS Course Material
----
+11. [Laut Bercerita](ebook/pdfcoffee_com_sb-laut-bercerita-leila-s-chudoripdf-pdf-free.pdf) - LEILA S. CHUDORI
+     
 Nabila Putri Akbar (13040124140173)
