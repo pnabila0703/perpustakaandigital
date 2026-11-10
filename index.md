@@ -17,7 +17,7 @@ Berikut ini adalah koleksi yang dimiliki:
 8. [Open Movements: Recognizing Challenges and Building Connections](ebook/Open_Movements_OA.pdf) – Elder, A. K., Smith, S. M., & Ricupero, B. (Eds.) (2026)
 9. [Public User Services & Technology: A Primer for Librarians](ebook/Public-User-Services-amp-Technology-a-Primer-for-Librarians-1773076003.pdf) – Bateman, M., & Hargrove, S. (Eds.)
 10. [Laut Bercerita](ebook/pdfcoffee_com_sb-laut-bercerita-leila-s-chudoripdf-pdf-free.pdf) – Leila S. Chudori
-11. 
+11. [Nabila Putri Akbar (173)_Ringkasan Materi UGC PATI](ebook/Nabila%20Putri%20Akbar%20(173)_Ringkasan%20Materi%20UGC%20PATI.pdf) - Nabila Putri Akbar
 
 ---
 
